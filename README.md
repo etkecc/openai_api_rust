@@ -5,6 +5,8 @@
 [![Crates.io](https://img.shields.io/crates/d/openai_api_rust?style=flat-square)](https://crates.io/crates/openai_api_rust)
 [![GitHub](https://img.shields.io/github/license/openai-rs/openai-api?style=flat-square)](https://github.com/openai-rs/openai-api/blob/main/LICENSE)
 
+**NOTE**: this is a **temporary** fork of `openai_api_rust` (https://github.com/openai-rs/openai-api) which improves the functionality of the image-generation API.
+
 A community-maintained library provides a simple and convenient way to interact with the OpenAI API.
 No complex async and redundant dependencies.
 

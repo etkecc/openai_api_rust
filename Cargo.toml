@@ -1,11 +1,11 @@
 [package]
-name = "openai_api_rust"
+name = "etke_openai_api_rust"
 version = "0.1.9"
-authors = ["i@gt.email","craig@mayhew.io"]
+authors = ["i@gt.email","craig@mayhew.io", "slavi@devture.com"]
 edition = "2021"
 license = "MIT"
-repository = "https://github.com/openai-rs/openai-api"
-description = "A very simple Rust library for OpenAI API, free from complex async operations and redundant dependencies."
+repository = "https://github.com/etkecc/openai_api_rust"
+description = "(Temporary etke.cc fork) A very simple Rust library for OpenAI API, free from complex async operations and redundant dependencies."
 keywords = ["openai_api", "openai", "openai-api"]
 categories = ["api-bindings"]
 
